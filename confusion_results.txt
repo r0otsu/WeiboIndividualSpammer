@@ -1,0 +1,60 @@
+Confusion Matrix:
+[[241   0]
+ [374  33]]
+Confusion Matrix:
+[[149  92]
+ [111 296]]
+Confusion Matrix:
+[[197  44]
+ [157 250]]
+Confusion Matrix:
+[[161  80]
+ [ 66 341]]
+Confusion Matrix:
+[[196  45]
+ [ 95 312]]
+Confusion Matrix:
+[[213  28]
+ [106 301]]
+Confusion Matrix:
+[[137 104]
+ [ 16 391]]
+Confusion Matrix:
+[[188  53]
+ [ 43 364]]
+Confusion Matrix:
+[[179  62]
+ [ 48 359]]
+Confusion Matrix:
+[[159  82]
+ [ 30 377]]
+Confusion Matrix:
+[[136 105]
+ [ 15 392]]
+Confusion Matrix:
+[[148  93]
+ [ 20 387]]
+Confusion Matrix:
+[[176  65]
+ [ 30 377]]
+Confusion Matrix:
+[[180  61]
+ [ 50 357]]
+Confusion Matrix:
+[[170  71]
+ [ 35 372]]
+Confusion Matrix:
+[[152  89]
+ [ 24 383]]
+Confusion Matrix:
+[[180  61]
+ [ 32 375]]
+Confusion Matrix:
+[[209  32]
+ [ 78 329]]
+Confusion Matrix:
+[[186  55]
+ [ 44 363]]
+Confusion Matrix:
+[[173  68]
+ [ 27 380]]

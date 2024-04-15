@@ -1,0 +1,10 @@
+Test Accuracy: 59.57%
+Test Accuracy: 76.76%
+Test Accuracy: 76.76%
+Test Accuracy: 83.79%
+Test Accuracy: 85.74%
+Test Accuracy: 85.74%
+Test Accuracy: 86.33%
+Test Accuracy: 86.91%
+Test Accuracy: 86.91%
+Test Accuracy: 86.91%
